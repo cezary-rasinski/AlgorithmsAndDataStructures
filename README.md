@@ -1,1 +1,12 @@
 # AlgorithmsAndDataStructures
+### Tasks
+  - [Backtracking.cpp](backtrackingcpp)  
+  - [BinarySearch.cpp](binarysearchcpp)  
+  - [BinaryTree.cpp](binarytreecpp)  
+  - [BucketSort.cpp](bucketsortcpp)  
+  - [DynamicProgramming.cpp](dynamicprogrammingcpp)  
+  - [Graph.cpp](graphcpp)  
+  - [HeapSort.cpp](heapsortcpp)  
+  - [InsertionSort.cpp](insertionsortcpp)  
+  - [QueueAndLinkedLists.cpp](queueandlinkedlistscpp)  
+  - [Quickselect.cpp](quickselectcpp)  
